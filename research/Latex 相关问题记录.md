@@ -81,7 +81,7 @@
 ]
 ```
 
-另外默认情况下 svg 会在命令当前目录生成 `svg-inkscape` 目录存储生成后的文件，如果想要修改此目录则可以在 `\includesvg` 中添加参数 `inkscapepath` 来修改，具体结果如下所示：
+另外默认情况下 svg 会在命令当前目录生成 `svg-inkscape` 目录存储生成后的文件，如果想要修改此目录则可以在 `\includesvg` 中添加参数 `inkscapepath` [^inkscapepath]来修改，具体结果如下所示：
 
 ```latex
 \begin{figure}[h]
@@ -98,6 +98,6 @@
 
 [^inkscape]:[inkscape](https://inkscape.org/)
 
-[^修改 inkscape 目录](https://github.com/mrpiggi/svg/issues/11)
+[^inkscapepath]:[修改 inkscape 目录](https://github.com/mrpiggi/svg/issues/11)
 
 
