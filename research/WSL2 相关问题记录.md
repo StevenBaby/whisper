@@ -1,7 +1,7 @@
 # WSL2 相关问题记录
 
 [annotation]: [id] (a08cb247-1b92-4a43-b0e5-fa9034e1b3af)
-[annotation]: [status] (protect)
+[annotation]: [status] (public)
 [annotation]: [create_time] (2024-04-25 15:42:23)
 [annotation]: [category] (计算机技术)
 [annotation]: [tags] ()
